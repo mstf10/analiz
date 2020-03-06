@@ -27,7 +27,6 @@ public class HizmetHarcama {
 
     public void setjPanel_hizmetharcama() {
         jPanel_hizmetharcama = new JPanel();
-        jPanel_hizmetharcama.setBackground(Color.YELLOW);
         jPanel_hizmetharcama.setBounds(0, 40, 1700, 500);
         jPanel_hizmetharcama.setLayout(null);
     }

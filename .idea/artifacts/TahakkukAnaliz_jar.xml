@@ -3,7 +3,7 @@
     <output-path>$PROJECT_DIR$/out/artifacts/TahakkukAnaliz_jar</output-path>
     <root id="archive" name="TahakkukAnaliz.jar">
       <element id="module-output" name="TahakkukAnaliz" />
-      <element id="extracted-dir" path="D:/java/mariadb/mariadb-java-client-2.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../mariadb-java-client-2.5.3.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>
